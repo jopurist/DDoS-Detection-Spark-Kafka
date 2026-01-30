@@ -2,6 +2,7 @@
 
 ## Overview
 My 3rd year's Cybersecurity course project. Task to perform DDoS detection using Spark and Kafka.
+- Writeup [link](https://docs.google.com/document/d/1DZn7WEMb9xe2B1LT9_K-xvDwFXxmj3rNY6umtImJtzU/edit?usp=sharing)
 
 ## Objectives
 - To test the compatability and limitation of using Spark and Kafka for real-time detection.
@@ -22,4 +23,4 @@ My 3rd year's Cybersecurity course project. Task to perform DDoS detection using
 - The features we selected all have the most impact on the detection. 
 - ![Capture](https://github.com/user-attachments/assets/2e3d43be-eba3-496e-8c30-37d95a3bf557)
 - Shows real promise for using these tools for making a detection system.
-- Writeup [link](https://docs.google.com/document/d/1DZn7WEMb9xe2B1LT9_K-xvDwFXxmj3rNY6umtImJtzU/edit?usp=sharing)
+
