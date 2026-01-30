@@ -14,11 +14,12 @@ My 3rd year's Cybersecurity course project. Task to perform DDoS detection using
 - Feed Kafka output into Spark Streaming for data processing. Then channeled through the ML model trained to identify DDoS attacks.
 
 ## Diagram
-![Architecture Diagram](diagram/ddos.png)
+![Capture](https://github.com/user-attachments/assets/7dc36611-93f5-43d2-b255-572ec39d96e6)
+
 
 ## Results
 - The pipeline flows from each tools nicely and neatly.
 - The features we selected all have the most impact on the detection. 
-- ![Matrix Diagram](diagram/ML_matrix.png)
+- ![Capture](https://github.com/user-attachments/assets/2e3d43be-eba3-496e-8c30-37d95a3bf557)
 - Shows real promise for using these tools for making a detection system.
 - Writeup [link](https://docs.google.com/document/d/1DZn7WEMb9xe2B1LT9_K-xvDwFXxmj3rNY6umtImJtzU/edit?usp=sharing)
